@@ -201,5 +201,3 @@ function App() {
 export default App;
 
 Setup react Router
-
-src/App.js
